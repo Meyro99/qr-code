@@ -59,9 +59,10 @@ p{
         justify-content: center;
         align-items: center;
         min-height: auto;
-        padding: 1em;  
+        padding: 2em;  
     }
     .main-content{
+        padding: auto;
         margin: 0 auto 1em;
         width: 100%;
     }
